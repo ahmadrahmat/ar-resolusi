@@ -1,4 +1,4 @@
 AR RESOLUSI
 1. Mempelajari Teknologi Baru
 2. Master Sebuah Teknologi
-3. Clean Code
+3. Front end developer
