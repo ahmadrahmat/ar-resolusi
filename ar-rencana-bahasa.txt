@@ -1,5 +1,6 @@
 RENCANA BAHASA AR
 1. Vue JS
    (Apa itu JS ?)
+   (Mengapa Vue Js?)
 2. Menggunakan framework
-   Msih dicari
+   Laravel ?
