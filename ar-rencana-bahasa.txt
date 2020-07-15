@@ -5,3 +5,4 @@ RENCANA BAHASA AR
 2. Menggunakan framework
    Vuetify
 3. Membuat aplikasi besar
+   Clean code
