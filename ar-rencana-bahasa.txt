@@ -2,5 +2,8 @@ RENCANA BAHASA AR
 1. Vue JS
    (Apa itu JS ?)
    (Mengapa Vue Js?)
+   (Bagaimana kedepannya?)
 2. Menggunakan framework
-   Laravel ?
+   Vuetify
+3. Membuat aplikasi besar
+   Clean code
